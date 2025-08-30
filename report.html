@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculty Feedback Report</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6;
+        }
+
+        .container {
+            max-width: 1024px;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+    <div class="container mx-auto bg-white rounded-xl shadow-lg p-8 space-y-8">
+        <h1 class="text-3xl md:text-4xl font-bold text-center text-gray-800">Faculty Feedback Report</h1>
+
+        <div class="bg-gray-50 p-6 rounded-lg border border-gray-200">
+            <h2 class="text-2xl font-semibold mb-4 text-gray-700">Average Scores (Out of 5)</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {% for key, value in avg_scores.items() %}
+                <div class="bg-white p-4 rounded-md shadow-sm border border-gray-200">
+                    <p class="text-sm text-gray-500 font-medium">{{ key }}</p>
+                    <p class="text-3xl font-bold text-indigo-600">{{ value }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="space-y-8">
+            <h2 class="text-2xl font-semibold text-gray-700 text-center">Visual Data</h2>
+
+            <!-- Sentiment Pie Chart -->
+            {% if has_comments %}
+            <div class="bg-white p-6 rounded-lg border border-gray-200 shadow-md">
+                <h3 class="text-xl font-medium text-gray-700 mb-4">Sentiment Distribution of Comments</h3>
+                <div class="flex justify-center">
+                    <img src="{{ chart_images['sentiment'] }}" alt="Sentiment Pie Chart"
+                        class="w-full max-w-xl rounded-lg">
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- Bar Charts for each feedback category -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                {% for key, img_path in chart_images.items() %}
+                {% if key != 'sentiment' %}
+                <div class="bg-white p-6 rounded-lg border border-gray-200 shadow-md">
+                    <h3 class="text-xl font-medium text-gray-700 mb-4">{{ key.replace('_', ' ').capitalize() }} Ratings
+                    </h3>
+                    <div class="flex justify-center">
+                        <img src="{{ img_path }}" alt="{{ key.replace('_', ' ') }} Bar Chart" class="w-full rounded-lg">
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

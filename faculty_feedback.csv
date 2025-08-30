@@ -1,0 +1,201 @@
+student_id,punctuality,regularity,clarity,interactivity,doubt_solving,notes_provided,overall_satisfaction,comment
+1,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Agree,Neutral,Needs to improve punctuality.
+2,Strongly Agree,Disagree,Disagree,Agree,Disagree,Neutral,Strongly Agree,Sometimes unprepared for class.
+3,Agree,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Neutral,"Too fast, hard to follow."
+4,Strongly Agree,Disagree,Agree,Disagree,Agree,Neutral,Disagree,Interactive and engaging classes.
+5,Neutral,Agree,Neutral,Neutral,Strongly Agree,Disagree,Strongly Agree,Satisfied with the overall teaching.
+6,Neutral,Agree,Neutral,Neutral,Strongly Agree,Neutral,Strongly Agree,"Average teaching, nothing special."
+7,Agree,Disagree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,"Too fast, hard to follow."
+8,Neutral,Agree,Neutral,Agree,Neutral,Neutral,Agree,Needs to improve punctuality.
+9,Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Strongly Agree,Class is sometimes boring.
+10,Agree,Disagree,Agree,Agree,Disagree,Neutral,Neutral,Interactive and engaging classes.
+11,Strongly Agree,Neutral,Agree,Disagree,Neutral,Neutral,Disagree,Explains concepts very clearly.
+12,Disagree,Strongly Agree,Neutral,Disagree,Disagree,Neutral,Strongly Agree,Not satisfied with the way of teaching.
+13,Agree,Agree,Agree,Agree,Strongly Agree,Disagree,Neutral,"Average teaching, nothing special."
+14,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Agree,Good but can improve communication.
+15,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Agree,Agree,Agree,"Too fast, hard to follow."
+16,Neutral,Agree,Neutral,Agree,Strongly Agree,Disagree,Agree,Very good teaching style.
+17,Neutral,Disagree,Agree,Agree,Agree,Neutral,Strongly Agree,Does not provide proper notes.
+18,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Neutral,Agree,Neutral,Needs to improve punctuality.
+19,Disagree,Agree,Strongly Agree,Disagree,Disagree,Agree,Neutral,"Average teaching, nothing special."
+20,Neutral,Neutral,Strongly Agree,Neutral,Disagree,Agree,Neutral,Excellent use of examples.
+21,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Does not provide proper notes.
+22,Neutral,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Does not provide proper notes.
+23,Disagree,Strongly Agree,Neutral,Agree,Agree,Agree,Agree,Class is sometimes boring.
+24,Disagree,Agree,Neutral,Agree,Strongly Agree,Disagree,Strongly Agree,Satisfied with the overall teaching.
+25,Strongly Agree,Strongly Agree,Neutral,Disagree,Neutral,Neutral,Neutral,Not satisfied with the way of teaching.
+26,Strongly Agree,Disagree,Neutral,Agree,Neutral,Disagree,Agree,Interactive and engaging classes.
+27,Strongly Agree,Disagree,Disagree,Agree,Agree,Agree,Strongly Agree,Interactive and engaging classes.
+28,Strongly Agree,Strongly Agree,Neutral,Disagree,Disagree,Disagree,Agree,Sometimes unprepared for class.
+29,Strongly Agree,Agree,Disagree,Neutral,Disagree,Neutral,Neutral,Always supportive and helpful.
+30,Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Neutral,Neutral,Satisfied with the overall teaching.
+31,Agree,Agree,Disagree,Neutral,Disagree,Neutral,Strongly Agree,"Too fast, hard to follow."
+32,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Neutral,Explains concepts very clearly.
+33,Agree,Neutral,Agree,Agree,Disagree,Disagree,Disagree,Needs to improve punctuality.
+34,Disagree,Neutral,Strongly Agree,Disagree,Strongly Agree,Neutral,Strongly Agree,Class is sometimes boring.
+35,Neutral,Agree,Agree,Neutral,Agree,Agree,Strongly Agree,"Average teaching, nothing special."
+36,Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.
+37,Neutral,Agree,Disagree,Strongly Agree,Neutral,Neutral,Strongly Agree,Excellent use of examples.
+38,Strongly Agree,Disagree,Neutral,Agree,Strongly Agree,Strongly Agree,Agree,Needs to improve punctuality.
+39,Strongly Agree,Strongly Agree,Agree,Disagree,Neutral,Agree,Disagree,Satisfied with the overall teaching.
+40,Agree,Strongly Agree,Strongly Agree,Neutral,Agree,Neutral,Strongly Agree,"Average teaching, nothing special."
+41,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree,Not satisfied with the way of teaching.
+42,Disagree,Agree,Strongly Agree,Agree,Neutral,Agree,Disagree,Explains concepts very clearly.
+43,Disagree,Disagree,Strongly Agree,Disagree,Strongly Agree,Neutral,Disagree,Explains concepts very clearly.
+44,Agree,Agree,Strongly Agree,Agree,Neutral,Disagree,Agree,Helpful in solving doubts.
+45,Disagree,Agree,Neutral,Disagree,Disagree,Neutral,Strongly Agree,Always supportive and helpful.
+46,Neutral,Strongly Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Disagree,Helpful in solving doubts.
+47,Neutral,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Agree,Helpful in solving doubts.
+48,Strongly Agree,Strongly Agree,Agree,Agree,Neutral,Neutral,Disagree,Does not provide proper notes.
+49,Strongly Agree,Disagree,Neutral,Agree,Strongly Agree,Disagree,Strongly Agree,Explains concepts very clearly.
+50,Neutral,Agree,Disagree,Agree,Neutral,Agree,Neutral,Satisfied with the overall teaching.
+51,Neutral,Strongly Agree,Neutral,Agree,Disagree,Agree,Neutral,Good but can improve communication.
+52,Disagree,Agree,Neutral,Neutral,Agree,Agree,Neutral,Does not provide proper notes.
+53,Strongly Agree,Neutral,Agree,Agree,Agree,Disagree,Neutral,Good but can improve communication.
+54,Neutral,Agree,Disagree,Disagree,Neutral,Agree,Agree,"Too fast, hard to follow."
+55,Agree,Neutral,Neutral,Neutral,Neutral,Disagree,Agree,Not satisfied with the way of teaching.
+56,Neutral,Agree,Strongly Agree,Disagree,Neutral,Disagree,Neutral,Class is sometimes boring.
+57,Agree,Agree,Disagree,Strongly Agree,Neutral,Disagree,Agree,Does not provide proper notes.
+58,Agree,Disagree,Disagree,Neutral,Disagree,Neutral,Agree,Helpful in solving doubts.
+59,Neutral,Agree,Neutral,Strongly Agree,Neutral,Disagree,Disagree,Needs to improve punctuality.
+60,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Agree,Strongly Agree,Needs to improve punctuality.
+61,Disagree,Strongly Agree,Strongly Agree,Disagree,Neutral,Neutral,Neutral,Explains concepts very clearly.
+62,Disagree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Disagree,Agree,Helpful in solving doubts.
+63,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Agree,Always supportive and helpful.
+64,Disagree,Neutral,Neutral,Neutral,Disagree,Disagree,Neutral,Needs to improve punctuality.
+65,Agree,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Disagree,Good but can improve communication.
+66,Agree,Agree,Neutral,Strongly Agree,Disagree,Agree,Disagree,Excellent use of examples.
+67,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Not satisfied with the way of teaching.
+68,Agree,Neutral,Agree,Neutral,Neutral,Neutral,Strongly Agree,"Average teaching, nothing special."
+69,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.
+70,Neutral,Neutral,Neutral,Strongly Agree,Strongly Agree,Neutral,Disagree,Does not provide proper notes.
+71,Agree,Agree,Agree,Disagree,Agree,Neutral,Agree,Satisfied with the overall teaching.
+72,Disagree,Neutral,Agree,Disagree,Strongly Agree,Disagree,Neutral,"Too fast, hard to follow."
+73,Disagree,Disagree,Strongly Agree,Neutral,Agree,Disagree,Strongly Agree,Always supportive and helpful.
+74,Strongly Agree,Strongly Agree,Neutral,Disagree,Neutral,Strongly Agree,Agree,Very good teaching style.
+75,Neutral,Neutral,Neutral,Strongly Agree,Strongly Agree,Agree,Disagree,Class is sometimes boring.
+76,Agree,Neutral,Agree,Strongly Agree,Disagree,Disagree,Neutral,Always supportive and helpful.
+77,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Does not provide proper notes.
+78,Disagree,Neutral,Agree,Strongly Agree,Agree,Neutral,Agree,"Too fast, hard to follow."
+79,Strongly Agree,Strongly Agree,Agree,Neutral,Disagree,Strongly Agree,Strongly Agree,"Too fast, hard to follow."
+80,Strongly Agree,Strongly Agree,Neutral,Neutral,Disagree,Agree,Strongly Agree,Very good teaching style.
+81,Neutral,Neutral,Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Satisfied with the overall teaching.
+82,Neutral,Disagree,Neutral,Disagree,Disagree,Neutral,Disagree,Interactive and engaging classes.
+83,Agree,Disagree,Disagree,Strongly Agree,Neutral,Agree,Neutral,Interactive and engaging classes.
+84,Agree,Agree,Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Needs to improve punctuality.
+85,Agree,Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Agree,Satisfied with the overall teaching.
+86,Agree,Strongly Agree,Neutral,Agree,Neutral,Agree,Agree,Needs to improve punctuality.
+87,Disagree,Disagree,Strongly Agree,Disagree,Agree,Disagree,Agree,Not satisfied with the way of teaching.
+88,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Interactive and engaging classes.
+89,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Agree,Agree,Class is sometimes boring.
+90,Neutral,Neutral,Agree,Neutral,Strongly Agree,Agree,Neutral,Class is sometimes boring.
+91,Agree,Agree,Agree,Agree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.
+92,Disagree,Agree,Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Satisfied with the overall teaching.
+93,Neutral,Strongly Agree,Disagree,Disagree,Disagree,Agree,Disagree,Explains concepts very clearly.
+94,Neutral,Disagree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Agree,Always supportive and helpful.
+95,Disagree,Disagree,Neutral,Disagree,Disagree,Disagree,Disagree,Always supportive and helpful.
+96,Strongly Agree,Neutral,Agree,Agree,Agree,Agree,Neutral,Needs to improve punctuality.
+97,Disagree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Agree,Does not provide proper notes.
+98,Neutral,Neutral,Strongly Agree,Agree,Agree,Strongly Agree,Disagree,Helpful in solving doubts.
+99,Neutral,Strongly Agree,Neutral,Agree,Agree,Agree,Disagree,Very good teaching style.
+100,Agree,Agree,Neutral,Strongly Agree,Disagree,Neutral,Neutral,Explains concepts very clearly.
+101,Agree,Disagree,Disagree,Neutral,Neutral,Agree,Neutral,"Too fast, hard to follow."
+102,Disagree,Agree,Disagree,Agree,Neutral,Neutral,Agree,Sometimes unprepared for class.
+103,Neutral,Agree,Neutral,Disagree,Neutral,Neutral,Strongly Agree,Excellent use of examples.
+104,Agree,Strongly Agree,Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Explains concepts very clearly.
+105,Neutral,Disagree,Agree,Neutral,Strongly Agree,Disagree,Disagree,Class is sometimes boring.
+106,Neutral,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,Interactive and engaging classes.
+107,Strongly Agree,Agree,Neutral,Neutral,Neutral,Strongly Agree,Agree,Does not provide proper notes.
+108,Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Neutral,Neutral,Not satisfied with the way of teaching.
+109,Disagree,Strongly Agree,Agree,Disagree,Disagree,Agree,Disagree,Very good teaching style.
+110,Disagree,Disagree,Strongly Agree,Neutral,Strongly Agree,Agree,Strongly Agree,Good but can improve communication.
+111,Disagree,Agree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Not satisfied with the way of teaching.
+112,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Disagree,Very good teaching style.
+113,Neutral,Neutral,Disagree,Disagree,Strongly Agree,Disagree,Strongly Agree,Helpful in solving doubts.
+114,Agree,Neutral,Strongly Agree,Disagree,Neutral,Disagree,Strongly Agree,Needs to improve punctuality.
+115,Disagree,Agree,Agree,Disagree,Neutral,Strongly Agree,Disagree,Very good teaching style.
+116,Strongly Agree,Neutral,Neutral,Neutral,Strongly Agree,Neutral,Strongly Agree,"Too fast, hard to follow."
+117,Neutral,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Does not provide proper notes.
+118,Strongly Agree,Neutral,Agree,Disagree,Agree,Agree,Disagree,Excellent use of examples.
+119,Strongly Agree,Disagree,Strongly Agree,Neutral,Neutral,Neutral,Neutral,Satisfied with the overall teaching.
+120,Agree,Agree,Agree,Disagree,Agree,Disagree,Agree,Helpful in solving doubts.
+121,Neutral,Strongly Agree,Neutral,Strongly Agree,Agree,Neutral,Strongly Agree,Satisfied with the overall teaching.
+122,Strongly Agree,Neutral,Disagree,Agree,Neutral,Strongly Agree,Strongly Agree,Class is sometimes boring.
+123,Disagree,Neutral,Strongly Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Satisfied with the overall teaching.
+124,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Neutral,Disagree,Does not provide proper notes.
+125,Neutral,Strongly Agree,Strongly Agree,Neutral,Neutral,Disagree,Strongly Agree,"Average teaching, nothing special."
+126,Disagree,Disagree,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Agree,Always supportive and helpful.
+127,Strongly Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Strongly Agree,Disagree,Does not provide proper notes.
+128,Disagree,Agree,Agree,Strongly Agree,Agree,Strongly Agree,Neutral,Does not provide proper notes.
+129,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Interactive and engaging classes.
+130,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Neutral,Strongly Agree,Excellent use of examples.
+131,Disagree,Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Needs to improve punctuality.
+132,Neutral,Agree,Neutral,Disagree,Agree,Agree,Neutral,Very good teaching style.
+133,Neutral,Strongly Agree,Agree,Strongly Agree,Disagree,Disagree,Strongly Agree,Class is sometimes boring.
+134,Agree,Strongly Agree,Strongly Agree,Agree,Neutral,Agree,Strongly Agree,Interactive and engaging classes.
+135,Strongly Agree,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Interactive and engaging classes.
+136,Disagree,Neutral,Neutral,Strongly Agree,Disagree,Strongly Agree,Disagree,Not satisfied with the way of teaching.
+137,Agree,Strongly Agree,Disagree,Neutral,Disagree,Agree,Neutral,Good but can improve communication.
+138,Disagree,Strongly Agree,Agree,Neutral,Strongly Agree,Neutral,Disagree,Class is sometimes boring.
+139,Disagree,Agree,Strongly Agree,Disagree,Agree,Agree,Neutral,Helpful in solving doubts.
+140,Neutral,Neutral,Neutral,Disagree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.
+141,Disagree,Strongly Agree,Disagree,Strongly Agree,Neutral,Disagree,Disagree,Helpful in solving doubts.
+142,Neutral,Disagree,Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Excellent use of examples.
+143,Neutral,Disagree,Disagree,Agree,Agree,Agree,Disagree,Excellent use of examples.
+144,Neutral,Strongly Agree,Agree,Strongly Agree,Disagree,Neutral,Neutral,Excellent use of examples.
+145,Agree,Neutral,Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Sometimes unprepared for class.
+146,Neutral,Strongly Agree,Neutral,Agree,Agree,Strongly Agree,Neutral,Good but can improve communication.
+147,Agree,Disagree,Agree,Agree,Agree,Agree,Strongly Agree,Not satisfied with the way of teaching.
+148,Disagree,Strongly Agree,Neutral,Disagree,Disagree,Neutral,Agree,Does not provide proper notes.
+149,Strongly Agree,Neutral,Agree,Strongly Agree,Agree,Neutral,Agree,Does not provide proper notes.
+150,Agree,Disagree,Agree,Strongly Agree,Neutral,Agree,Agree,"Too fast, hard to follow."
+151,Agree,Neutral,Strongly Agree,Disagree,Strongly Agree,Neutral,Strongly Agree,"Average teaching, nothing special."
+152,Agree,Disagree,Neutral,Disagree,Disagree,Neutral,Agree,Sometimes unprepared for class.
+153,Strongly Agree,Disagree,Neutral,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Not satisfied with the way of teaching.
+154,Agree,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Not satisfied with the way of teaching.
+155,Agree,Disagree,Strongly Agree,Neutral,Neutral,Neutral,Neutral,"Too fast, hard to follow."
+156,Agree,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Agree,Good but can improve communication.
+157,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Sometimes unprepared for class.
+158,Neutral,Neutral,Disagree,Agree,Strongly Agree,Neutral,Neutral,Excellent use of examples.
+159,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Disagree,"Too fast, hard to follow."
+160,Strongly Agree,Disagree,Strongly Agree,Agree,Neutral,Agree,Strongly Agree,Not satisfied with the way of teaching.
+161,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Needs to improve punctuality.
+162,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Excellent use of examples.
+163,Neutral,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree,Neutral,Satisfied with the overall teaching.
+164,Agree,Disagree,Neutral,Strongly Agree,Disagree,Disagree,Neutral,Always supportive and helpful.
+165,Neutral,Neutral,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,Good but can improve communication.
+166,Agree,Agree,Neutral,Neutral,Neutral,Disagree,Strongly Agree,Very good teaching style.
+167,Disagree,Neutral,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Very good teaching style.
+168,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Neutral,"Too fast, hard to follow."
+169,Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Neutral,Disagree,Not satisfied with the way of teaching.
+170,Disagree,Disagree,Agree,Neutral,Disagree,Strongly Agree,Neutral,"Too fast, hard to follow."
+171,Strongly Agree,Agree,Neutral,Agree,Disagree,Strongly Agree,Strongly Agree,Explains concepts very clearly.
+172,Strongly Agree,Agree,Neutral,Neutral,Agree,Strongly Agree,Strongly Agree,Interactive and engaging classes.
+173,Agree,Neutral,Agree,Neutral,Disagree,Disagree,Neutral,Explains concepts very clearly.
+174,Neutral,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Very good teaching style.
+175,Agree,Strongly Agree,Neutral,Neutral,Neutral,Agree,Agree,"Average teaching, nothing special."
+176,Disagree,Strongly Agree,Neutral,Neutral,Agree,Neutral,Strongly Agree,Sometimes unprepared for class.
+177,Neutral,Neutral,Neutral,Strongly Agree,Neutral,Strongly Agree,Disagree,Very good teaching style.
+178,Strongly Agree,Neutral,Strongly Agree,Neutral,Disagree,Strongly Agree,Disagree,Satisfied with the overall teaching.
+179,Disagree,Strongly Agree,Strongly Agree,Neutral,Neutral,Agree,Strongly Agree,Sometimes unprepared for class.
+180,Disagree,Strongly Agree,Neutral,Agree,Agree,Neutral,Disagree,"Average teaching, nothing special."
+181,Strongly Agree,Strongly Agree,Disagree,Agree,Neutral,Strongly Agree,Agree,Sometimes unprepared for class.
+182,Neutral,Neutral,Disagree,Neutral,Strongly Agree,Disagree,Agree,Class is sometimes boring.
+183,Neutral,Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Class is sometimes boring.
+184,Agree,Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Strongly Agree,Interactive and engaging classes.
+185,Agree,Agree,Strongly Agree,Agree,Agree,Neutral,Neutral,Helpful in solving doubts.
+186,Strongly Agree,Agree,Disagree,Strongly Agree,Agree,Agree,Neutral,Explains concepts very clearly.
+187,Agree,Neutral,Strongly Agree,Agree,Agree,Disagree,Disagree,Does not provide proper notes.
+188,Disagree,Neutral,Strongly Agree,Neutral,Agree,Disagree,Agree,Sometimes unprepared for class.
+189,Agree,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Sometimes unprepared for class.
+190,Neutral,Agree,Strongly Agree,Disagree,Disagree,Neutral,Agree,Interactive and engaging classes.
+191,Strongly Agree,Neutral,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Needs to improve punctuality.
+192,Neutral,Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Disagree,Interactive and engaging classes.
+193,Neutral,Disagree,Agree,Agree,Agree,Neutral,Strongly Agree,Does not provide proper notes.
+194,Agree,Disagree,Agree,Agree,Disagree,Disagree,Disagree,"Too fast, hard to follow."
+195,Neutral,Disagree,Strongly Agree,Disagree,Neutral,Disagree,Strongly Agree,Interactive and engaging classes.
+196,Strongly Agree,Neutral,Neutral,Strongly Agree,Strongly Agree,Agree,Disagree,Excellent use of examples.
+197,Agree,Strongly Agree,Neutral,Agree,Agree,Disagree,Neutral,Very good teaching style.
+198,Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Agree,Neutral,"Average teaching, nothing special."
+199,Strongly Agree,Agree,Neutral,Neutral,Strongly Agree,Agree,Agree,"Too fast, hard to follow."
+200,Agree,Disagree,Agree,Agree,Agree,Agree,Neutral,Does not provide proper notes.

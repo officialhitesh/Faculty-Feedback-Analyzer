@@ -1,0 +1,44 @@
+student_id,punctuality,regularity,clarity,interactivity,doubt_solving,notes_provided,overall_satisfaction,comment,Sentiment
+1,Disagree,Strongly Agree,Disagree,Disagree,Disagree,Agree,Neutral,Needs to improve punctuality.,negative
+2,Strongly Agree,Disagree,Disagree,Agree,Disagree,Neutral,Strongly Agree,Sometimes unprepared for class.,negative
+3,Agree,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Neutral,"Too fast, hard to follow.",negative
+7,Agree,Disagree,Agree,Strongly Agree,Agree,Strongly Agree,Strongly Agree,"Too fast, hard to follow.",negative
+8,Neutral,Agree,Neutral,Agree,Neutral,Neutral,Agree,Needs to improve punctuality.,negative
+15,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Agree,Agree,Agree,"Too fast, hard to follow.",negative
+18,Strongly Agree,Strongly Agree,Disagree,Strongly Agree,Neutral,Agree,Neutral,Needs to improve punctuality.,negative
+28,Strongly Agree,Strongly Agree,Neutral,Disagree,Disagree,Disagree,Agree,Sometimes unprepared for class.,negative
+31,Agree,Agree,Disagree,Neutral,Disagree,Neutral,Strongly Agree,"Too fast, hard to follow.",negative
+33,Agree,Neutral,Agree,Agree,Disagree,Disagree,Disagree,Needs to improve punctuality.,negative
+38,Strongly Agree,Disagree,Neutral,Agree,Strongly Agree,Strongly Agree,Agree,Needs to improve punctuality.,negative
+54,Neutral,Agree,Disagree,Disagree,Neutral,Agree,Agree,"Too fast, hard to follow.",negative
+59,Neutral,Agree,Neutral,Strongly Agree,Neutral,Disagree,Disagree,Needs to improve punctuality.,negative
+60,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Agree,Strongly Agree,Needs to improve punctuality.,negative
+64,Disagree,Neutral,Neutral,Neutral,Disagree,Disagree,Neutral,Needs to improve punctuality.,negative
+72,Disagree,Neutral,Agree,Disagree,Strongly Agree,Disagree,Neutral,"Too fast, hard to follow.",negative
+78,Disagree,Neutral,Agree,Strongly Agree,Agree,Neutral,Agree,"Too fast, hard to follow.",negative
+79,Strongly Agree,Strongly Agree,Agree,Neutral,Disagree,Strongly Agree,Strongly Agree,"Too fast, hard to follow.",negative
+84,Agree,Agree,Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Needs to improve punctuality.,negative
+86,Agree,Strongly Agree,Neutral,Agree,Neutral,Agree,Agree,Needs to improve punctuality.,negative
+96,Strongly Agree,Neutral,Agree,Agree,Agree,Agree,Neutral,Needs to improve punctuality.,negative
+101,Agree,Disagree,Disagree,Neutral,Neutral,Agree,Neutral,"Too fast, hard to follow.",negative
+102,Disagree,Agree,Disagree,Agree,Neutral,Neutral,Agree,Sometimes unprepared for class.,negative
+114,Agree,Neutral,Strongly Agree,Disagree,Neutral,Disagree,Strongly Agree,Needs to improve punctuality.,negative
+116,Strongly Agree,Neutral,Neutral,Neutral,Strongly Agree,Neutral,Strongly Agree,"Too fast, hard to follow.",negative
+131,Disagree,Agree,Strongly Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Needs to improve punctuality.,negative
+145,Agree,Neutral,Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Sometimes unprepared for class.,negative
+150,Agree,Disagree,Agree,Strongly Agree,Neutral,Agree,Agree,"Too fast, hard to follow.",negative
+152,Agree,Disagree,Neutral,Disagree,Disagree,Neutral,Agree,Sometimes unprepared for class.,negative
+155,Agree,Disagree,Strongly Agree,Neutral,Neutral,Neutral,Neutral,"Too fast, hard to follow.",negative
+157,Agree,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Sometimes unprepared for class.,negative
+159,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Strongly Agree,Disagree,"Too fast, hard to follow.",negative
+161,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Needs to improve punctuality.,negative
+168,Strongly Agree,Disagree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Neutral,"Too fast, hard to follow.",negative
+170,Disagree,Disagree,Agree,Neutral,Disagree,Strongly Agree,Neutral,"Too fast, hard to follow.",negative
+176,Disagree,Strongly Agree,Neutral,Neutral,Agree,Neutral,Strongly Agree,Sometimes unprepared for class.,negative
+179,Disagree,Strongly Agree,Strongly Agree,Neutral,Neutral,Agree,Strongly Agree,Sometimes unprepared for class.,negative
+181,Strongly Agree,Strongly Agree,Disagree,Agree,Neutral,Strongly Agree,Agree,Sometimes unprepared for class.,negative
+188,Disagree,Neutral,Strongly Agree,Neutral,Agree,Disagree,Agree,Sometimes unprepared for class.,negative
+189,Agree,Agree,Disagree,Disagree,Disagree,Disagree,Agree,Sometimes unprepared for class.,negative
+191,Strongly Agree,Neutral,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Needs to improve punctuality.,negative
+194,Agree,Disagree,Agree,Agree,Disagree,Disagree,Disagree,"Too fast, hard to follow.",negative
+199,Strongly Agree,Agree,Neutral,Neutral,Strongly Agree,Agree,Agree,"Too fast, hard to follow.",negative

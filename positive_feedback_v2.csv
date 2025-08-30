@@ -1,0 +1,83 @@
+student_id,punctuality,regularity,clarity,interactivity,doubt_solving,notes_provided,overall_satisfaction,comment,Sentiment
+4,Strongly Agree,Disagree,Agree,Disagree,Agree,Neutral,Disagree,Interactive and engaging classes.,positive
+5,Neutral,Agree,Neutral,Neutral,Strongly Agree,Disagree,Strongly Agree,Satisfied with the overall teaching.,positive
+10,Agree,Disagree,Agree,Agree,Disagree,Neutral,Neutral,Interactive and engaging classes.,positive
+12,Disagree,Strongly Agree,Neutral,Disagree,Disagree,Neutral,Strongly Agree,Not satisfied with the way of teaching.,positive
+14,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Strongly Agree,Good but can improve communication.,positive
+16,Neutral,Agree,Neutral,Agree,Strongly Agree,Disagree,Agree,Very good teaching style.,positive
+20,Neutral,Neutral,Strongly Agree,Neutral,Disagree,Agree,Neutral,Excellent use of examples.,positive
+24,Disagree,Agree,Neutral,Agree,Strongly Agree,Disagree,Strongly Agree,Satisfied with the overall teaching.,positive
+25,Strongly Agree,Strongly Agree,Neutral,Disagree,Neutral,Neutral,Neutral,Not satisfied with the way of teaching.,positive
+26,Strongly Agree,Disagree,Neutral,Agree,Neutral,Disagree,Agree,Interactive and engaging classes.,positive
+27,Strongly Agree,Disagree,Disagree,Agree,Agree,Agree,Strongly Agree,Interactive and engaging classes.,positive
+30,Disagree,Strongly Agree,Strongly Agree,Agree,Disagree,Neutral,Neutral,Satisfied with the overall teaching.,positive
+36,Agree,Disagree,Disagree,Disagree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.,positive
+37,Neutral,Agree,Disagree,Strongly Agree,Neutral,Neutral,Strongly Agree,Excellent use of examples.,positive
+39,Strongly Agree,Strongly Agree,Agree,Disagree,Neutral,Agree,Disagree,Satisfied with the overall teaching.,positive
+41,Strongly Agree,Agree,Strongly Agree,Strongly Agree,Neutral,Disagree,Agree,Not satisfied with the way of teaching.,positive
+50,Neutral,Agree,Disagree,Agree,Neutral,Agree,Neutral,Satisfied with the overall teaching.,positive
+51,Neutral,Strongly Agree,Neutral,Agree,Disagree,Agree,Neutral,Good but can improve communication.,positive
+53,Strongly Agree,Neutral,Agree,Agree,Agree,Disagree,Neutral,Good but can improve communication.,positive
+55,Agree,Neutral,Neutral,Neutral,Neutral,Disagree,Agree,Not satisfied with the way of teaching.,positive
+65,Agree,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Disagree,Good but can improve communication.,positive
+66,Agree,Agree,Neutral,Strongly Agree,Disagree,Agree,Disagree,Excellent use of examples.,positive
+67,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Strongly Agree,Agree,Not satisfied with the way of teaching.,positive
+69,Disagree,Disagree,Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.,positive
+71,Agree,Agree,Agree,Disagree,Agree,Neutral,Agree,Satisfied with the overall teaching.,positive
+74,Strongly Agree,Strongly Agree,Neutral,Disagree,Neutral,Strongly Agree,Agree,Very good teaching style.,positive
+80,Strongly Agree,Strongly Agree,Neutral,Neutral,Disagree,Agree,Strongly Agree,Very good teaching style.,positive
+81,Neutral,Neutral,Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Satisfied with the overall teaching.,positive
+82,Neutral,Disagree,Neutral,Disagree,Disagree,Neutral,Disagree,Interactive and engaging classes.,positive
+83,Agree,Disagree,Disagree,Strongly Agree,Neutral,Agree,Neutral,Interactive and engaging classes.,positive
+85,Agree,Strongly Agree,Disagree,Disagree,Agree,Strongly Agree,Agree,Satisfied with the overall teaching.,positive
+87,Disagree,Disagree,Strongly Agree,Disagree,Agree,Disagree,Agree,Not satisfied with the way of teaching.,positive
+88,Strongly Agree,Disagree,Disagree,Strongly Agree,Agree,Strongly Agree,Disagree,Interactive and engaging classes.,positive
+91,Agree,Agree,Agree,Agree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.,positive
+92,Disagree,Agree,Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Satisfied with the overall teaching.,positive
+99,Neutral,Strongly Agree,Neutral,Agree,Agree,Agree,Disagree,Very good teaching style.,positive
+103,Neutral,Agree,Neutral,Disagree,Neutral,Neutral,Strongly Agree,Excellent use of examples.,positive
+106,Neutral,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Agree,Interactive and engaging classes.,positive
+108,Agree,Agree,Neutral,Strongly Agree,Strongly Agree,Neutral,Neutral,Not satisfied with the way of teaching.,positive
+109,Disagree,Strongly Agree,Agree,Disagree,Disagree,Agree,Disagree,Very good teaching style.,positive
+110,Disagree,Disagree,Strongly Agree,Neutral,Strongly Agree,Agree,Strongly Agree,Good but can improve communication.,positive
+111,Disagree,Agree,Agree,Disagree,Disagree,Strongly Agree,Disagree,Not satisfied with the way of teaching.,positive
+112,Neutral,Disagree,Neutral,Strongly Agree,Neutral,Strongly Agree,Disagree,Very good teaching style.,positive
+115,Disagree,Agree,Agree,Disagree,Neutral,Strongly Agree,Disagree,Very good teaching style.,positive
+118,Strongly Agree,Neutral,Agree,Disagree,Agree,Agree,Disagree,Excellent use of examples.,positive
+119,Strongly Agree,Disagree,Strongly Agree,Neutral,Neutral,Neutral,Neutral,Satisfied with the overall teaching.,positive
+121,Neutral,Strongly Agree,Neutral,Strongly Agree,Agree,Neutral,Strongly Agree,Satisfied with the overall teaching.,positive
+123,Disagree,Neutral,Strongly Agree,Strongly Agree,Agree,Disagree,Strongly Agree,Satisfied with the overall teaching.,positive
+129,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Interactive and engaging classes.,positive
+130,Neutral,Strongly Agree,Strongly Agree,Strongly Agree,Neutral,Neutral,Strongly Agree,Excellent use of examples.,positive
+132,Neutral,Agree,Neutral,Disagree,Agree,Agree,Neutral,Very good teaching style.,positive
+134,Agree,Strongly Agree,Strongly Agree,Agree,Neutral,Agree,Strongly Agree,Interactive and engaging classes.,positive
+135,Strongly Agree,Disagree,Disagree,Disagree,Disagree,Neutral,Neutral,Interactive and engaging classes.,positive
+136,Disagree,Neutral,Neutral,Strongly Agree,Disagree,Strongly Agree,Disagree,Not satisfied with the way of teaching.,positive
+137,Agree,Strongly Agree,Disagree,Neutral,Disagree,Agree,Neutral,Good but can improve communication.,positive
+140,Neutral,Neutral,Neutral,Disagree,Strongly Agree,Disagree,Agree,Not satisfied with the way of teaching.,positive
+142,Neutral,Disagree,Agree,Strongly Agree,Neutral,Disagree,Strongly Agree,Excellent use of examples.,positive
+143,Neutral,Disagree,Disagree,Agree,Agree,Agree,Disagree,Excellent use of examples.,positive
+144,Neutral,Strongly Agree,Agree,Strongly Agree,Disagree,Neutral,Neutral,Excellent use of examples.,positive
+146,Neutral,Strongly Agree,Neutral,Agree,Agree,Strongly Agree,Neutral,Good but can improve communication.,positive
+147,Agree,Disagree,Agree,Agree,Agree,Agree,Strongly Agree,Not satisfied with the way of teaching.,positive
+153,Strongly Agree,Disagree,Neutral,Strongly Agree,Strongly Agree,Agree,Strongly Agree,Not satisfied with the way of teaching.,positive
+154,Agree,Disagree,Agree,Strongly Agree,Disagree,Strongly Agree,Disagree,Not satisfied with the way of teaching.,positive
+156,Agree,Agree,Disagree,Disagree,Strongly Agree,Strongly Agree,Agree,Good but can improve communication.,positive
+158,Neutral,Neutral,Disagree,Agree,Strongly Agree,Neutral,Neutral,Excellent use of examples.,positive
+160,Strongly Agree,Disagree,Strongly Agree,Agree,Neutral,Agree,Strongly Agree,Not satisfied with the way of teaching.,positive
+162,Agree,Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Neutral,Excellent use of examples.,positive
+163,Neutral,Strongly Agree,Agree,Disagree,Strongly Agree,Disagree,Neutral,Satisfied with the overall teaching.,positive
+165,Neutral,Neutral,Disagree,Disagree,Strongly Agree,Strongly Agree,Disagree,Good but can improve communication.,positive
+166,Agree,Agree,Neutral,Neutral,Neutral,Disagree,Strongly Agree,Very good teaching style.,positive
+167,Disagree,Neutral,Agree,Agree,Strongly Agree,Disagree,Strongly Agree,Very good teaching style.,positive
+169,Agree,Strongly Agree,Strongly Agree,Neutral,Strongly Agree,Neutral,Disagree,Not satisfied with the way of teaching.,positive
+172,Strongly Agree,Agree,Neutral,Neutral,Agree,Strongly Agree,Strongly Agree,Interactive and engaging classes.,positive
+174,Neutral,Disagree,Strongly Agree,Strongly Agree,Strongly Agree,Disagree,Agree,Very good teaching style.,positive
+177,Neutral,Neutral,Neutral,Strongly Agree,Neutral,Strongly Agree,Disagree,Very good teaching style.,positive
+178,Strongly Agree,Neutral,Strongly Agree,Neutral,Disagree,Strongly Agree,Disagree,Satisfied with the overall teaching.,positive
+184,Agree,Agree,Strongly Agree,Disagree,Neutral,Strongly Agree,Strongly Agree,Interactive and engaging classes.,positive
+190,Neutral,Agree,Strongly Agree,Disagree,Disagree,Neutral,Agree,Interactive and engaging classes.,positive
+192,Neutral,Agree,Agree,Strongly Agree,Strongly Agree,Disagree,Disagree,Interactive and engaging classes.,positive
+195,Neutral,Disagree,Strongly Agree,Disagree,Neutral,Disagree,Strongly Agree,Interactive and engaging classes.,positive
+196,Strongly Agree,Neutral,Neutral,Strongly Agree,Strongly Agree,Agree,Disagree,Excellent use of examples.,positive
+197,Agree,Strongly Agree,Neutral,Agree,Agree,Disagree,Neutral,Very good teaching style.,positive

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='nav.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+
+</head>
+
+<body>
+    <div class="nav-container">
+        <div class="logo">Feedback Analyzer</div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+
+<div class="main-container">
+    <h1>Analyze Faculty Feedback</h1>
+    <p>Unlock insights from your feedback data with a simple upload.</p>
+    <div class="file-container">
+        <p>Upload your CSV file here to generate a comprehensive report.</p>
+        <form id="upload-form" action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" id="file-upload" name="file" accept=".csv">
+            <!-- The upload icon is now part of the form's user interaction -->
+            <img src="{{ url_for('static', filename='upload.png') }}" alt="Upload" id="upload-img">
+            <p id="file-name"></p>
+            <button id="submit-btn" type="submit">Upload File</button>
+        </form>
+        <br>
+        <p>Accepted file type .csv</p>
+    </div>
+</div>
+
+    </div>
+    </div>
+
+    <!-- About Section -->
+    <div id="about">
+        <h2>ℹ️ About</h2>
+        <p class="text-gray-600 text-lg leading-relaxed">
+            The <strong>Faculty Feedback Analyzer</strong> is designed to help institutions and teachers gain
+            meaningful insights from faculty feedback forms submitted by students. Teachers can upload
+            their collected feedback data into the system to generate a detailed report that includes
+            average ratings, sentiment analysis of student comments, and visual charts. These insights
+            allow faculty members to understand how students perceive their teaching, recognize strengths,
+            and identify areas where improvements can be made.
+        </p>
+    </div>
+
+    <!-- Contact Section -->
+    <div id="contact">
+        <h2>📩 Contact</h2>
+        <p class="text-gray-600 text-lg leading-relaxed">
+            Have questions or suggestions? Feel free to reach out:
+        </p>
+        <ul class="mt-4 text-gray-700 space-y-2">
+            <li><strong>Email:</strong> hiteshbksc@gmail.com.com</li>
+            <li><strong>Phone:</strong> +91-9431580156</li>
+            <li><strong>Address:</strong> Amity University, Gwalior, India</li>
+        </ul>
+    </div>
+    <script src="{{ url_for('static', filename='upload_script.js') }}"></script>
+</body>
+
+</html>
